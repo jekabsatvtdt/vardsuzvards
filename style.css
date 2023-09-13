@@ -1,9 +1,8 @@
-.cube {
-  width: 100px;
-  height: 100px;
-  background-color: green;
+button {
+  background-color: greenyellow;
+  padding: 7px 13px;
 }
 
-.border {
-  border: 2px solid red;
+button:hover {
+  display: none;
 }
